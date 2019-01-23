@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+#order {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    margin: 10px;
+    margin-bottom: 40px;
+}
+
+button {
+    margin-left: 2px;
+    margin-right: 2px; 
+}
+
+#list-data li {
+    display: inline-block;
+    vertical-align: bottom;
+    margin: 3px;
+}
+
+li img {
+    border: 4px solid black;
+    max-width: 100%;
+    height: 200px;
+}
